@@ -1,0 +1,32 @@
+test_createDelete (test.TestAdminAPI.test_createDelete) ... ok
+test_createDuplicate (test.TestAdminAPI.test_createDuplicate) ... ok
+test_getAll (test.TestAdminAPI.test_getAll) ... ok
+test_getByID (test.TestAdminAPI.test_getByID) ... ok
+test_login_incorrectLoginID (test.TestAdminAPI.test_login_incorrectLoginID) ... ok
+test_login_incorrectPassword (test.TestAdminAPI.test_login_incorrectPassword) ... ok
+test_login_success (test.TestAdminAPI.test_login_success) ... ok
+test_update_fName (test.TestAdminAPI.test_update_fName) ... ok
+test_createAndDeleteAgeGroup (test.TestAgeGroup.test_createAndDeleteAgeGroup) ... ok
+test_findAgeGroup (test.TestAgeGroup.test_findAgeGroup) ... ok
+test_getAgeGroupById (test.TestAgeGroup.test_getAgeGroupById) ... ok
+test_getAllAgeGroups (test.TestAgeGroup.test_getAllAgeGroups) ... ok
+test_updateAgeGroup (test.TestAgeGroup.test_updateAgeGroup) ... ok
+test_createAndDeleteCoach (test.TestCoach.test_createAndDeleteCoach) ... ok
+test_findCoach (test.TestCoach.test_findCoach) ... ok
+test_getAllCoaches (test.TestCoach.test_getAllCoaches) ... ok
+test_getCoachById (test.TestCoach.test_getCoachById) ... ok
+test_update_coach (test.TestCoach.test_update_coach) ... ok
+test_GetMaterialById (test.TestMaterial.test_GetMaterialById) ... ok
+test_createAndDeleteMaterial (test.TestMaterial.test_createAndDeleteMaterial) ... ok
+test_updateMaterial (test.TestMaterial.test_updateMaterial) ... ok
+test_createAndDeleteANewModule (test.TestModules.test_createAndDeleteANewModule) ... ok
+test_getAllModules (test.TestModules.test_getAllModules) ... ok
+test_getById (test.TestModules.test_getById) ... ok
+test_getMaterialsByModuleId (test.TestModules.test_getMaterialsByModuleId) ... ok
+test_getSubModuleById (test.TestModules.test_getSubModuleById) ... ok
+test_updateModule (test.TestModules.test_updateModule) ... ok
+
+----------------------------------------------------------------------
+Ran 27 tests in 6.837s
+
+OK

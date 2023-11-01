@@ -1,0 +1,152 @@
+INFO:root:{'msg': 'Module already exist.'}
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e73234c60662abc92c229', 'createdAt': '2023-10-05T08:26:11.460Z', 'updatedAt': '2023-10-05T08:26:11.460Z', '__v': 0}
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$cht3vOrzqKZt/YL16D/zrunbY.92ReM4o1eORw7630Gl/O4FgfAj6","age":20,"address":"address","phone":"phone","description":"","_id":"651e73234c60662abc92c22c","createdAt":"2023-10-05T08:26:11.483Z","updatedAt":"2023-10-05T08:26:11.483Z","__v":0}
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e735b4c60662abc92c236', 'createdAt': '2023-10-05T08:27:07.341Z', 'updatedAt': '2023-10-05T08:27:07.341Z', '__v': 0}
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$4ISbYrvyZm4PNxdB6CjrD.ZQNLh8iM4OwW3FUVQ29qYu8Fi0lKpSK","age":20,"address":"address","phone":"phone","description":"","_id":"651e735b4c60662abc92c239","createdAt":"2023-10-05T08:27:07.359Z","updatedAt":"2023-10-05T08:27:07.359Z","__v":0}
+INFO:root:{'msg': 'Module already exist.'}
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e73ca4c60662abc92c249', 'createdAt': '2023-10-05T08:28:58.337Z', 'updatedAt': '2023-10-05T08:28:58.337Z', '__v': 0}
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$c1CVd3Tsbf5ZnaNgtQGtWe02QVQFPsv2/gBApzYsEe5UojtEJFcuO","age":20,"address":"address","phone":"phone","description":"","_id":"651e73ca4c60662abc92c24c","createdAt":"2023-10-05T08:28:58.354Z","updatedAt":"2023-10-05T08:28:58.354Z","__v":0}
+INFO:root:{"name":"name","coaches":["651e73ca4c60662abc92c24c"],"modules":["651e73ca4c60662abc92c249"],"_id":"651e73ca4c60662abc92c24f","createdAt":"2023-10-05T08:28:58.411Z","updatedAt":"2023-10-05T08:28:58.411Z","__v":0}
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e74034c60662abc92c258', 'createdAt': '2023-10-05T08:29:55.652Z', 'updatedAt': '2023-10-05T08:29:55.652Z', '__v': 0}
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$aoyBvf4NtZRC1bABf0K0KeCyZ0w729uR8MRSZTqn6QL8dfiBrYrvS","age":20,"address":"address","phone":"phone","description":"","_id":"651e74034c60662abc92c25b","createdAt":"2023-10-05T08:29:55.669Z","updatedAt":"2023-10-05T08:29:55.669Z","__v":0}
+INFO:root:{"name":"name","coaches":["651e74034c60662abc92c25b"],"modules":["651e74034c60662abc92c258"],"_id":"651e74034c60662abc92c25e","createdAt":"2023-10-05T08:29:55.728Z","updatedAt":"2023-10-05T08:29:55.728Z","__v":0}
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e743b4c60662abc92c267', 'createdAt': '2023-10-05T08:30:51.948Z', 'updatedAt': '2023-10-05T08:30:51.948Z', '__v': 0}
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$JXsdd7uskszKRpYiO6v3j.Y93WzqKO42fgwiNNT0IdsTHSecuxG5q","age":20,"address":"address","phone":"phone","description":"","_id":"651e743b4c60662abc92c26a","createdAt":"2023-10-05T08:30:51.967Z","updatedAt":"2023-10-05T08:30:51.967Z","__v":0}
+INFO:root:{"name":"name","coaches":["651e743b4c60662abc92c26a"],"modules":["651e743b4c60662abc92c267"],"_id":"651e743c4c60662abc92c26d","createdAt":"2023-10-05T08:30:52.212Z","updatedAt":"2023-10-05T08:30:52.212Z","__v":0}
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e750b4c60662abc92c27f', 'createdAt': '2023-10-05T08:34:19.900Z', 'updatedAt': '2023-10-05T08:34:19.900Z', '__v': 0}
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$1nW1BpypffUei4TQSdtL/.s6wKF3Qdu5v9nOqpNmkl0uCekNXTQgi","age":20,"address":"address","phone":"phone","description":"","_id":"651e750b4c60662abc92c282","createdAt":"2023-10-05T08:34:19.918Z","updatedAt":"2023-10-05T08:34:19.918Z","__v":0}
+INFO:root:{"name":"name","coaches":["651e750b4c60662abc92c282"],"modules":["651e750b4c60662abc92c27f"],"_id":"651e750b4c60662abc92c285","createdAt":"2023-10-05T08:34:19.974Z","updatedAt":"2023-10-05T08:34:19.974Z","__v":0}
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e751da3bba3f2a0b80aee', 'createdAt': '2023-10-05T08:34:37.844Z', 'updatedAt': '2023-10-05T08:34:37.844Z', '__v': 0}
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$LHa61SZw7qSXD/9GXOU26eqx8S18J6QDvBC4cuhBcWVvc7QC/SgQm","age":20,"address":"address","phone":"phone","description":"","_id":"651e751da3bba3f2a0b80af1","createdAt":"2023-10-05T08:34:37.866Z","updatedAt":"2023-10-05T08:34:37.866Z","__v":0}
+INFO:root:{"name":"name","coaches":["651e751da3bba3f2a0b80af1"],"modules":["651e751da3bba3f2a0b80aee"],"_id":"651e751da3bba3f2a0b80af4","createdAt":"2023-10-05T08:34:37.930Z","updatedAt":"2023-10-05T08:34:37.930Z","__v":0}
+INFO:root:{"acknowledged":true,"modifiedCount":1,"upsertedId":null,"upsertedCount":0,"matchedCount":1}
+INFO:root:{"_id":"651e751da3bba3f2a0b80af4","name":"name2","coaches":null,"modules":null,"createdAt":"2023-10-05T08:34:37.930Z","updatedAt":"2023-10-05T08:34:37.951Z","__v":0}
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e7566a3bba3f2a0b80b5e', 'createdAt': '2023-10-05T08:35:50.931Z', 'updatedAt': '2023-10-05T08:35:50.931Z', '__v': 0}
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$Y4v20/Rvy9.w5Pi4kJqu0uHyYjKrCRlZHshAfynBB1nRv0nVX8FSy","age":20,"address":"address","phone":"phone","description":"","_id":"651e7566a3bba3f2a0b80b61","createdAt":"2023-10-05T08:35:50.938Z","updatedAt":"2023-10-05T08:35:50.938Z","__v":0}
+INFO:root:{"name":"name","coaches":["651e7566a3bba3f2a0b80b61"],"modules":["651e7566a3bba3f2a0b80b5e"],"_id":"651e7566a3bba3f2a0b80b64","createdAt":"2023-10-05T08:35:50.984Z","updatedAt":"2023-10-05T08:35:50.984Z","__v":0}
+INFO:root:
+INFO:root:
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e7567a3bba3f2a0b80b71', 'createdAt': '2023-10-05T08:35:51.141Z', 'updatedAt': '2023-10-05T08:35:51.141Z', '__v': 0}
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$JjyO0Ei7DeUKgOfUHw1/MeUENftQRImX.oN6TqFzrBjxwvBYmmtVC","age":20,"address":"address","phone":"phone","description":"","_id":"651e7567a3bba3f2a0b80b74","createdAt":"2023-10-05T08:35:51.148Z","updatedAt":"2023-10-05T08:35:51.148Z","__v":0}
+INFO:root:{"name":"name","coaches":["651e7567a3bba3f2a0b80b74"],"modules":["651e7567a3bba3f2a0b80b71"],"_id":"651e7567a3bba3f2a0b80b77","createdAt":"2023-10-05T08:35:51.193Z","updatedAt":"2023-10-05T08:35:51.193Z","__v":0}
+WARNING:root:[{"_id":"651e7567a3bba3f2a0b80b77","name":"name","coaches":[{"_id":"651e7567a3bba3f2a0b80b74","firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","age":20,"address":"address","phone":"phone","description":"","createdAt":"2023-10-05T08:35:51.148Z","updatedAt":"2023-10-05T08:35:51.148Z","__v":0}],"modules":[{"_id":"651e7567a3bba3f2a0b80b71","name":"moduleName","father_id":"64e6e2d529fcb9a264a6eea3","level":3,"materials":[],"createdAt":"2023-10-05T08:35:51.141Z","updatedAt":"2023-10-05T08:35:51.141Z","__v":0}],"createdAt":"2023-10-05T08:35:51.193Z","updatedAt":"2023-10-05T08:35:51.193Z","__v":0}]
+INFO:root:
+INFO:root:
+INFO:root:{"msg":"AgeGroup_id do not exist"}
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e7567a3bba3f2a0b80b88', 'createdAt': '2023-10-05T08:35:51.374Z', 'updatedAt': '2023-10-05T08:35:51.374Z', '__v': 0}
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$3N1dvUla79Rq/qp8cZZsC.H54W13Y.2fN1B4NUb.yu8QjXIS4TWrO","age":20,"address":"address","phone":"phone","description":"","_id":"651e7567a3bba3f2a0b80b8b","createdAt":"2023-10-05T08:35:51.382Z","updatedAt":"2023-10-05T08:35:51.382Z","__v":0}
+INFO:root:{"name":"name","coaches":["651e7567a3bba3f2a0b80b8b"],"modules":["651e7567a3bba3f2a0b80b88"],"_id":"651e7567a3bba3f2a0b80b8e","createdAt":"2023-10-05T08:35:51.432Z","updatedAt":"2023-10-05T08:35:51.432Z","__v":0}
+INFO:root:{"_id":"651e7567a3bba3f2a0b80b8e","name":"name","coaches":["651e7567a3bba3f2a0b80b8b"],"modules":["651e7567a3bba3f2a0b80b88"],"createdAt":"2023-10-05T08:35:51.432Z","updatedAt":"2023-10-05T08:35:51.432Z","__v":0}
+INFO:root:
+INFO:root:
+INFO:root:{"msg":"AgeGroup_id do not exist"}
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e7567a3bba3f2a0b80ba3', 'createdAt': '2023-10-05T08:35:51.772Z', 'updatedAt': '2023-10-05T08:35:51.772Z', '__v': 0}
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$4U79zAkvrr.FL5I4INdV2OqEfHUtsTwxjpl0Jc/1PA6QWcG.mSale","age":20,"address":"address","phone":"phone","description":"","_id":"651e7567a3bba3f2a0b80ba6","createdAt":"2023-10-05T08:35:51.779Z","updatedAt":"2023-10-05T08:35:51.779Z","__v":0}
+INFO:root:{"name":"name","coaches":["651e7567a3bba3f2a0b80ba6"],"modules":["651e7567a3bba3f2a0b80ba3"],"_id":"651e7567a3bba3f2a0b80ba9","createdAt":"2023-10-05T08:35:51.828Z","updatedAt":"2023-10-05T08:35:51.828Z","__v":0}
+INFO:root:{"acknowledged":true,"modifiedCount":1,"upsertedId":null,"upsertedCount":0,"matchedCount":1}
+INFO:root:{"_id":"651e7567a3bba3f2a0b80ba9","name":"name2","coaches":null,"modules":null,"createdAt":"2023-10-05T08:35:51.828Z","updatedAt":"2023-10-05T08:35:51.836Z","__v":0}
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$Jy7MljHI6.1kEvoo5u868u44Q3avzdYDpd8jFgeM4Z6p53MNeQVTO","age":20,"address":"address","phone":"phone","description":"","_id":"651e7568a3bba3f2a0b80bb9","createdAt":"2023-10-05T08:35:52.015Z","updatedAt":"2023-10-05T08:35:52.015Z","__v":0}
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$kYPzv710SAg14OwCLi5XaeeEcTXajgAVgH6tJZRHWi5C.bXmmcT1i","age":20,"address":"address","phone":"phone","description":"","_id":"651e7568a3bba3f2a0b80bc2","createdAt":"2023-10-05T08:35:52.204Z","updatedAt":"2023-10-05T08:35:52.204Z","__v":0}
+INFO:root:[{"coach":{"_id":"651e7568a3bba3f2a0b80bc2","firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","age":20,"address":"address","phone":"phone","description":"","createdAt":"2023-10-05T08:35:52.204Z","updatedAt":"2023-10-05T08:35:52.204Z","__v":0},"ageGroup":[]}]
+INFO:root:[]
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$jbkhw.saBh1e6dy7Zc9/9uAi5VScKyjuz9l2sp3bB/1VOyUglN6PO","age":20,"address":"address","phone":"phone","description":"","_id":"651e7568a3bba3f2a0b80bd3","createdAt":"2023-10-05T08:35:52.536Z","updatedAt":"2023-10-05T08:35:52.536Z","__v":0}
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$jbkhw.saBh1e6dy7Zc9/9uAi5VScKyjuz9l2sp3bB/1VOyUglN6PO","age":20,"address":"address","phone":"phone","description":"","_id":"651e7568a3bba3f2a0b80bd3","createdAt":"2023-10-05T08:35:52.536Z","updatedAt":"2023-10-05T08:35:52.536Z","__v":0}
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$blLLPxIzLPMCiMVRCAnfv.gbijGqVJosJZ6ZgPK64OYxZLfQGdjp6","age":20,"address":"address","phone":"phone","description":"","_id":"651e7568a3bba3f2a0b80bdd","createdAt":"2023-10-05T08:35:52.746Z","updatedAt":"2023-10-05T08:35:52.746Z","__v":0}
+INFO:root:{"acknowledged":true,"modifiedCount":1,"upsertedId":null,"upsertedCount":0,"matchedCount":1}
+INFO:root:{"_id":"651e7568a3bba3f2a0b80bdd","firstName":"first name2","middleName":"middle name2","lastName":"last name2","loginID":"loginID2","age":22,"address":"address2","phone":"phone2","description":"","createdAt":"2023-10-05T08:35:52.746Z","updatedAt":"2023-10-05T08:35:52.794Z","__v":0}
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e7568a3bba3f2a0b80be9', 'createdAt': '2023-10-05T08:35:52.990Z', 'updatedAt': '2023-10-05T08:35:52.990Z', '__v': 0}
+INFO:root:{"fileMaterial":{"url":"url","description":"description","name":"name","lastModified":"2023-10-05T08:34:29.110Z","_id":"651e7568a3bba3f2a0b80bec","createdAt":"2023-10-05T08:35:52.997Z","updatedAt":"2023-10-05T08:35:52.997Z","__v":0},"material":{"type":"file","fileMaterials":"651e7568a3bba3f2a0b80bec","_id":"651e7569a3bba3f2a0b80bee","createdAt":"2023-10-05T08:35:53.014Z","updatedAt":"2023-10-05T08:35:53.014Z","__v":0}}
+INFO:root:{"material":{"_id":"651e7569a3bba3f2a0b80bee","type":"file","fileMaterials":"651e7568a3bba3f2a0b80bec","createdAt":"2023-10-05T08:35:53.014Z","updatedAt":"2023-10-05T08:35:53.014Z","__v":0},"fileMaterial":{"_id":"651e7568a3bba3f2a0b80bec","url":"url","description":"description","name":"name","lastModified":"2023-10-05T08:34:29.110Z","createdAt":"2023-10-05T08:35:52.997Z","updatedAt":"2023-10-05T08:35:52.997Z","__v":0}}
+INFO:root:
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e7569a3bba3f2a0b80c02', 'createdAt': '2023-10-05T08:35:53.193Z', 'updatedAt': '2023-10-05T08:35:53.193Z', '__v': 0}
+INFO:root:{"fileMaterial":{"url":"url","description":"description","name":"name","lastModified":"2023-10-05T08:34:29.110Z","_id":"651e7569a3bba3f2a0b80c05","createdAt":"2023-10-05T08:35:53.199Z","updatedAt":"2023-10-05T08:35:53.199Z","__v":0},"material":{"type":"file","fileMaterials":"651e7569a3bba3f2a0b80c05","_id":"651e7569a3bba3f2a0b80c07","createdAt":"2023-10-05T08:35:53.200Z","updatedAt":"2023-10-05T08:35:53.200Z","__v":0}}
+INFO:root:651e7569a3bba3f2a0b80c05
+INFO:root:
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e7569a3bba3f2a0b80c19', 'createdAt': '2023-10-05T08:35:53.353Z', 'updatedAt': '2023-10-05T08:35:53.353Z', '__v': 0}
+INFO:root:{"fileMaterial":{"url":"url","description":"description","name":"name","lastModified":"2023-10-05T08:34:29.110Z","_id":"651e7569a3bba3f2a0b80c1c","createdAt":"2023-10-05T08:35:53.359Z","updatedAt":"2023-10-05T08:35:53.359Z","__v":0},"material":{"type":"file","fileMaterials":"651e7569a3bba3f2a0b80c1c","_id":"651e7569a3bba3f2a0b80c1e","createdAt":"2023-10-05T08:35:53.361Z","updatedAt":"2023-10-05T08:35:53.361Z","__v":0}}
+INFO:root:{"acknowledged":true,"modifiedCount":1,"upsertedId":null,"upsertedCount":0,"matchedCount":1}
+INFO:root:{"material":{"_id":"651e7569a3bba3f2a0b80c1e","type":"file","fileMaterials":"651e7569a3bba3f2a0b80c1c","createdAt":"2023-10-05T08:35:53.361Z","updatedAt":"2023-10-05T08:35:53.361Z","__v":0},"fileMaterial":{"_id":"651e7569a3bba3f2a0b80c1c","url":"url2","description":"description2","name":"name2","lastModified":"2023-10-05T08:34:29.110Z","createdAt":"2023-10-05T08:35:53.359Z","updatedAt":"2023-10-05T08:35:53.372Z","__v":0}}
+INFO:root:
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e7569a3bba3f2a0b80c34', 'createdAt': '2023-10-05T08:35:53.537Z', 'updatedAt': '2023-10-05T08:35:53.537Z', '__v': 0}
+INFO:root:
+INFO:root:[]
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e7569a3bba3f2a0b80c45', 'createdAt': '2023-10-05T08:35:53.833Z', 'updatedAt': '2023-10-05T08:35:53.833Z', '__v': 0}
+INFO:root:
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e7569a3bba3f2a0b80c51', 'createdAt': '2023-10-05T08:35:53.986Z', 'updatedAt': '2023-10-05T08:35:53.986Z', '__v': 0}
+INFO:root:[]
+INFO:root:
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e756aa3bba3f2a0b80c5d', 'createdAt': '2023-10-05T08:35:54.139Z', 'updatedAt': '2023-10-05T08:35:54.139Z', '__v': 0}
+INFO:root:[{"_id":"651e756aa3bba3f2a0b80c5d","name":"moduleName","father_id":"64e6e2d529fcb9a264a6eea3","level":3,"materials":[],"createdAt":"2023-10-05T08:35:54.139Z","updatedAt":"2023-10-05T08:35:54.139Z","__v":0}]
+INFO:root:
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e756aa3bba3f2a0b80c69', 'createdAt': '2023-10-05T08:35:54.292Z', 'updatedAt': '2023-10-05T08:35:54.292Z', '__v': 0}
+INFO:root:{"acknowledged":true,"modifiedCount":1,"upsertedId":null,"upsertedCount":0,"matchedCount":1}
+INFO:root:
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e7587a3bba3f2a0b80cd1', 'createdAt': '2023-10-05T08:36:23.965Z', 'updatedAt': '2023-10-05T08:36:23.965Z', '__v': 0}
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$BDUESewjWUWD.UCub5hnhe6nKHA7d3slPMlzPybDJZl75yOrlVm5C","age":20,"address":"address","phone":"phone","description":"","_id":"651e7587a3bba3f2a0b80cd4","createdAt":"2023-10-05T08:36:23.972Z","updatedAt":"2023-10-05T08:36:23.972Z","__v":0}
+INFO:root:{"name":"name","coaches":["651e7587a3bba3f2a0b80cd4"],"modules":["651e7587a3bba3f2a0b80cd1"],"_id":"651e7588a3bba3f2a0b80cd7","createdAt":"2023-10-05T08:36:24.017Z","updatedAt":"2023-10-05T08:36:24.017Z","__v":0}
+INFO:root:
+INFO:root:
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e7588a3bba3f2a0b80ce4', 'createdAt': '2023-10-05T08:36:24.181Z', 'updatedAt': '2023-10-05T08:36:24.181Z', '__v': 0}
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$PhjIM5EBafXuFcOwhr7g0.LEz0J1oZklj1sXVEjOz9zhn1UGAHONq","age":20,"address":"address","phone":"phone","description":"","_id":"651e7588a3bba3f2a0b80ce7","createdAt":"2023-10-05T08:36:24.188Z","updatedAt":"2023-10-05T08:36:24.188Z","__v":0}
+INFO:root:{"name":"name","coaches":["651e7588a3bba3f2a0b80ce7"],"modules":["651e7588a3bba3f2a0b80ce4"],"_id":"651e7588a3bba3f2a0b80cea","createdAt":"2023-10-05T08:36:24.234Z","updatedAt":"2023-10-05T08:36:24.234Z","__v":0}
+WARNING:root:[{"_id":"651e7588a3bba3f2a0b80cea","name":"name","coaches":[{"_id":"651e7588a3bba3f2a0b80ce7","firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","age":20,"address":"address","phone":"phone","description":"","createdAt":"2023-10-05T08:36:24.188Z","updatedAt":"2023-10-05T08:36:24.188Z","__v":0}],"modules":[{"_id":"651e7588a3bba3f2a0b80ce4","name":"moduleName","father_id":"64e6e2d529fcb9a264a6eea3","level":3,"materials":[],"createdAt":"2023-10-05T08:36:24.181Z","updatedAt":"2023-10-05T08:36:24.181Z","__v":0}],"createdAt":"2023-10-05T08:36:24.234Z","updatedAt":"2023-10-05T08:36:24.234Z","__v":0}]
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e7588a3bba3f2a0b80cfa', 'createdAt': '2023-10-05T08:36:24.402Z', 'updatedAt': '2023-10-05T08:36:24.402Z', '__v': 0}
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$ZYC42MQ/0sILW2dWBEfr7uyz/BD0As69691m9w2XiJTHEGGaVcSji","age":20,"address":"address","phone":"phone","description":"","_id":"651e7588a3bba3f2a0b80cfd","createdAt":"2023-10-05T08:36:24.409Z","updatedAt":"2023-10-05T08:36:24.409Z","__v":0}
+INFO:root:{"name":"name","coaches":["651e7588a3bba3f2a0b80cfd"],"modules":["651e7588a3bba3f2a0b80cfa"],"_id":"651e7588a3bba3f2a0b80d00","createdAt":"2023-10-05T08:36:24.454Z","updatedAt":"2023-10-05T08:36:24.454Z","__v":0}
+INFO:root:{"_id":"651e7588a3bba3f2a0b80d00","name":"name","coaches":["651e7588a3bba3f2a0b80cfd"],"modules":["651e7588a3bba3f2a0b80cfa"],"createdAt":"2023-10-05T08:36:24.454Z","updatedAt":"2023-10-05T08:36:24.454Z","__v":0}
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e7588a3bba3f2a0b80d14', 'createdAt': '2023-10-05T08:36:24.754Z', 'updatedAt': '2023-10-05T08:36:24.754Z', '__v': 0}
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$zicuG5Dy60sIMmzrOQVDmeQOlfOCy7OI3xSiNg5IFiZHCZ2hd7RNu","age":20,"address":"address","phone":"phone","description":"","_id":"651e7588a3bba3f2a0b80d17","createdAt":"2023-10-05T08:36:24.761Z","updatedAt":"2023-10-05T08:36:24.761Z","__v":0}
+INFO:root:{"name":"name","coaches":["651e7588a3bba3f2a0b80d17"],"modules":["651e7588a3bba3f2a0b80d14"],"_id":"651e7588a3bba3f2a0b80d1a","createdAt":"2023-10-05T08:36:24.806Z","updatedAt":"2023-10-05T08:36:24.806Z","__v":0}
+INFO:root:{"acknowledged":true,"modifiedCount":1,"upsertedId":null,"upsertedCount":0,"matchedCount":1}
+INFO:root:{"_id":"651e7588a3bba3f2a0b80d1a","name":"name2","coaches":null,"modules":null,"createdAt":"2023-10-05T08:36:24.806Z","updatedAt":"2023-10-05T08:36:24.812Z","__v":0}
+INFO:root:
+INFO:root:
+INFO:root:
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$klMTWEwJND3KPXAPxr8VGeReJ6r/OjRv6.zgHPV6J6acGL68ApSBe","age":20,"address":"address","phone":"phone","description":"","_id":"651e7588a3bba3f2a0b80d2a","createdAt":"2023-10-05T08:36:24.966Z","updatedAt":"2023-10-05T08:36:24.966Z","__v":0}
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$h9lXSmHHdckJbC3CkP77YOmiw6UvICdQzq.uIE5fukN7aVYyD5b1a","age":20,"address":"address","phone":"phone","description":"","_id":"651e7589a3bba3f2a0b80d33","createdAt":"2023-10-05T08:36:25.151Z","updatedAt":"2023-10-05T08:36:25.151Z","__v":0}
+INFO:root:[{"coach":{"_id":"651e7589a3bba3f2a0b80d33","firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","age":20,"address":"address","phone":"phone","description":"","createdAt":"2023-10-05T08:36:25.151Z","updatedAt":"2023-10-05T08:36:25.151Z","__v":0},"ageGroup":[]}]
+INFO:root:[]
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$17R/6n79v7taOm1zWo8N7.HBeuawdLXlxNmgWMnrRS8tHrizcskoe","age":20,"address":"address","phone":"phone","description":"","_id":"651e7589a3bba3f2a0b80d44","createdAt":"2023-10-05T08:36:25.485Z","updatedAt":"2023-10-05T08:36:25.485Z","__v":0}
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$17R/6n79v7taOm1zWo8N7.HBeuawdLXlxNmgWMnrRS8tHrizcskoe","age":20,"address":"address","phone":"phone","description":"","_id":"651e7589a3bba3f2a0b80d44","createdAt":"2023-10-05T08:36:25.485Z","updatedAt":"2023-10-05T08:36:25.485Z","__v":0}
+INFO:root:{"firstName":"first name","middleName":"middle name","lastName":"last name","loginID":"loginID","password":"$2b$09$8pZScQ39al9zRAajJgCB8OK3XzJLPRBFHTvLEq9xRYkrS43WFxeBq","age":20,"address":"address","phone":"phone","description":"","_id":"651e7589a3bba3f2a0b80d4e","createdAt":"2023-10-05T08:36:25.669Z","updatedAt":"2023-10-05T08:36:25.669Z","__v":0}
+INFO:root:{"acknowledged":true,"modifiedCount":1,"upsertedId":null,"upsertedCount":0,"matchedCount":1}
+INFO:root:{"_id":"651e7589a3bba3f2a0b80d4e","firstName":"first name2","middleName":"middle name2","lastName":"last name2","loginID":"loginID2","age":22,"address":"address2","phone":"phone2","description":"","createdAt":"2023-10-05T08:36:25.669Z","updatedAt":"2023-10-05T08:36:25.714Z","__v":0}
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e7589a3bba3f2a0b80d5a', 'createdAt': '2023-10-05T08:36:25.897Z', 'updatedAt': '2023-10-05T08:36:25.897Z', '__v': 0}
+INFO:root:{"fileMaterial":{"url":"url","description":"description","name":"name","lastModified":"2023-10-05T08:34:29.110Z","_id":"651e7589a3bba3f2a0b80d5d","createdAt":"2023-10-05T08:36:25.904Z","updatedAt":"2023-10-05T08:36:25.904Z","__v":0},"material":{"type":"file","fileMaterials":"651e7589a3bba3f2a0b80d5d","_id":"651e7589a3bba3f2a0b80d5f","createdAt":"2023-10-05T08:36:25.905Z","updatedAt":"2023-10-05T08:36:25.905Z","__v":0}}
+INFO:root:{"material":{"_id":"651e7589a3bba3f2a0b80d5f","type":"file","fileMaterials":"651e7589a3bba3f2a0b80d5d","createdAt":"2023-10-05T08:36:25.905Z","updatedAt":"2023-10-05T08:36:25.905Z","__v":0},"fileMaterial":{"_id":"651e7589a3bba3f2a0b80d5d","url":"url","description":"description","name":"name","lastModified":"2023-10-05T08:34:29.110Z","createdAt":"2023-10-05T08:36:25.904Z","updatedAt":"2023-10-05T08:36:25.904Z","__v":0}}
+INFO:root:
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e758aa3bba3f2a0b80d73', 'createdAt': '2023-10-05T08:36:26.071Z', 'updatedAt': '2023-10-05T08:36:26.071Z', '__v': 0}
+INFO:root:{"fileMaterial":{"url":"url","description":"description","name":"name","lastModified":"2023-10-05T08:34:29.110Z","_id":"651e758aa3bba3f2a0b80d76","createdAt":"2023-10-05T08:36:26.078Z","updatedAt":"2023-10-05T08:36:26.078Z","__v":0},"material":{"type":"file","fileMaterials":"651e758aa3bba3f2a0b80d76","_id":"651e758aa3bba3f2a0b80d78","createdAt":"2023-10-05T08:36:26.080Z","updatedAt":"2023-10-05T08:36:26.080Z","__v":0}}
+INFO:root:651e758aa3bba3f2a0b80d76
+INFO:root:
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e758aa3bba3f2a0b80d8a', 'createdAt': '2023-10-05T08:36:26.231Z', 'updatedAt': '2023-10-05T08:36:26.231Z', '__v': 0}
+INFO:root:{"fileMaterial":{"url":"url","description":"description","name":"name","lastModified":"2023-10-05T08:34:29.110Z","_id":"651e758aa3bba3f2a0b80d8d","createdAt":"2023-10-05T08:36:26.237Z","updatedAt":"2023-10-05T08:36:26.237Z","__v":0},"material":{"type":"file","fileMaterials":"651e758aa3bba3f2a0b80d8d","_id":"651e758aa3bba3f2a0b80d8f","createdAt":"2023-10-05T08:36:26.239Z","updatedAt":"2023-10-05T08:36:26.239Z","__v":0}}
+INFO:root:{"acknowledged":true,"modifiedCount":1,"upsertedId":null,"upsertedCount":0,"matchedCount":1}
+INFO:root:{"material":{"_id":"651e758aa3bba3f2a0b80d8f","type":"file","fileMaterials":"651e758aa3bba3f2a0b80d8d","createdAt":"2023-10-05T08:36:26.239Z","updatedAt":"2023-10-05T08:36:26.239Z","__v":0},"fileMaterial":{"_id":"651e758aa3bba3f2a0b80d8d","url":"url2","description":"description2","name":"name2","lastModified":"2023-10-05T08:34:29.110Z","createdAt":"2023-10-05T08:36:26.237Z","updatedAt":"2023-10-05T08:36:26.247Z","__v":0}}
+INFO:root:
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e758aa3bba3f2a0b80da5', 'createdAt': '2023-10-05T08:36:26.406Z', 'updatedAt': '2023-10-05T08:36:26.406Z', '__v': 0}
+INFO:root:
+INFO:root:[]
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e758aa3bba3f2a0b80db6', 'createdAt': '2023-10-05T08:36:26.694Z', 'updatedAt': '2023-10-05T08:36:26.694Z', '__v': 0}
+INFO:root:
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e758aa3bba3f2a0b80dc2', 'createdAt': '2023-10-05T08:36:26.843Z', 'updatedAt': '2023-10-05T08:36:26.843Z', '__v': 0}
+INFO:root:[]
+INFO:root:
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e758aa3bba3f2a0b80dce', 'createdAt': '2023-10-05T08:36:26.993Z', 'updatedAt': '2023-10-05T08:36:26.993Z', '__v': 0}
+INFO:root:[{"_id":"651e758aa3bba3f2a0b80dce","name":"moduleName","father_id":"64e6e2d529fcb9a264a6eea3","level":3,"materials":[],"createdAt":"2023-10-05T08:36:26.993Z","updatedAt":"2023-10-05T08:36:26.993Z","__v":0}]
+INFO:root:
+INFO:root:{'name': 'moduleName', 'father_id': '64e6e2d529fcb9a264a6eea3', 'level': 3, 'materials': [], '_id': '651e758ba3bba3f2a0b80dda', 'createdAt': '2023-10-05T08:36:27.146Z', 'updatedAt': '2023-10-05T08:36:27.146Z', '__v': 0}
+INFO:root:{"acknowledged":true,"modifiedCount":1,"upsertedId":null,"upsertedCount":0,"matchedCount":1}
+INFO:root:
