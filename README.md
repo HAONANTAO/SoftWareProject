@@ -1,6 +1,4 @@
-# Comp90082 SoftWareProject
 
-# AL-Bluering
 
 # Altona Gators Basketball Club Coach Training System
 
